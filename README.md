@@ -1,2 +1,2 @@
-# gmall-xgd
+# gmallxgd
 gmall电商项目
